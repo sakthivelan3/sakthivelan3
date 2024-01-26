@@ -19,8 +19,8 @@
 ###
 
 <div align="left">
-  <img onclick="window.location.href='https://devdocs.io/javascript/'" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
+  <a> href="https://devdocs.io/javascript/" target="blank"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" /> </a>
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
