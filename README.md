@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning App Development<br>🎯 Goals: Mastering UI/UX & Front-End to craft impactful digital experiences that delight users!<br></p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning App Development<br>🎯 Goals: Mastering UI/UX & Front-End to craft impactful digital experiences that delight users!<br>📫 How to reach me **kumaresansakthi007@gmail.com**</p>
 
 ###
 
