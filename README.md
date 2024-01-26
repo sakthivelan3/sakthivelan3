@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Sakthivelan K S and I'm a UI/UX Designer and also passionated with Front-End Development, App Development , from Trichy</p>
+<p align="left">My name is Sakthivelan K S, and I am a UI/UX Designer who is passionate about Front-End Development and App Development, from Trichy</p>
 
 ###
 
