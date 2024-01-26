@@ -23,6 +23,9 @@
   <img width="12" />
   <a href="https://helpx.adobe.com/xd/get-started.html" target="blank"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/xd/xd-plain.svg" height="40" alt="Adobe Xd logo" /> </a>
   <img width="12" />
+  <a href="https://developer.android.com/studio" target="blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  /> </a>
+  <img width="12" />
   <a href="https://getbootstrap.com/" target="blank"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstap logo" /> </a>
   <img width="12" />
   <a href="https://devdocs.io/c/" target="blank"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" height="40" alt="C logo" /></a>
