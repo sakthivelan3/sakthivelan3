@@ -14,26 +14,37 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Crafted with Code: Tools & Tech</h2>
 
 ###
 
 <div align="left">
-  <a href="https://devdocs.io/javascript/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" /> </a>
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" height="40" alt="typescript logo"  />
+  <a href="https://www.adobe.com/in/products/aftereffects.html" target="blank"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/aftereffects/aftereffects-plain.svg" height="40" alt="After Effects logo" /></a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <a href="https://helpx.adobe.com/xd/get-started.html" target="blank"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/xd/xd-plain.svg" height="40" alt="Adobe Xd logo" /> </a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <a href="https://getbootstrap.com/" target="blank"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstap logo" /> </a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <a href="https://devdocs.io/c/" target="blank"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" height="40" alt="C logo" /></a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <a href="https://devdocs.io/css/" target="blank"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg" height="40" alt="css3 logo" /> </a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
+  <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="blank"><img src="https://github.com/sempostma/office365-icons/blob/master/png/1024/excel.png" height="40" alt="Excel logo" /></a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <a href="https://www.figma.com/" target="blank"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/figma/figma-original.svg" height="40" alt="Figma logo" /></a>
+  <img width="12" />
+  <a href="https://git-scm.com/" target="blank"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" height="40" alt="Git logo"  /> </a>
+  <img width="12" />
+  <a href="https://devdocs.io/html/" target="blank"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg" height="40" alt="html logo"  /> </a>
+  <img width="12" />
+  <a href="https://devdocs.io/javascript/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  /> </a>
+  <img width="12" /> 
+  <a href="https://docs.oracle.com/en/java/" target="blank"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" height="40" alt="java logo" /></a>
+  <img width="12" />
+  <a href="https://react.dev/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  /></a>
+  <img width="12" />
+  <a href="https://www.python.org/doc/" target="blank"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" height="40" alt="Python logo" /></a>
+  <img width="12" />
 </div>
 
 ###
